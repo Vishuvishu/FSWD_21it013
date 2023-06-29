@@ -111,6 +111,8 @@ function print123() {
 
 
 
+
+
 document.getElementById(1).addEventListener("click", print123)
 
 //Write a function that takes a number as an argument and throws an error if the number
